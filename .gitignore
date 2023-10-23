@@ -1,0 +1,6 @@
+*.vmdk
+*.qcow2
+*.mf
+*.ova
+*.ovf
+.DS_Store
