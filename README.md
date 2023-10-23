@@ -64,3 +64,9 @@ List of supported CPUs: <https://www.qemu.org/docs/master/system/i386/cpu.html>
 Congrats, now you have your x86 VM running on MacOS ARM.
 
 **First Boot is slow. Just wait.**# run-x86-utm
+
+
+### Enable Multicore
+
+This is where it gets really good, but could end up being unstable.
+![Alt text](<./images/CleanShot 2023-10-23 at 16.56.29@2x.png>)
